@@ -8,7 +8,7 @@ import pandas as pd
 import pandas_ta as ta 
 
 # ================= CONFIGURATION =================
-API_KEY = "YOUR_GEMINI_API_KEY" # <--- PASTE KEY HERE
+API_KEY = "AIzaSyDqlz6OT3U4WkCZoJhXgqDibH62Yq54Wlg" # <--- PASTE KEY HERE
 SYMBOL = "EURUSD"     # Check your broker (might be "EURUSD.m")
 TIMEFRAME = 16385     # MT5 code for H1 Timeframe
 VOLUME = 0.01         # Lot size
